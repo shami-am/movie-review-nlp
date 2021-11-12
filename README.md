@@ -24,3 +24,5 @@ Our plan in the project is to:
 * Matplotlib
 * Seaborn
 * Sklean
+
+<br/> This project was done in pairs [@Nada](https://github.com/nadaAlruwaythi) & [@Abdallah](https://github.com/shami-am/)
