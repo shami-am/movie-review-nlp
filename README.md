@@ -13,7 +13,7 @@ Our plan in the project is to:
 > Is the movie review positive or negative.
 
 #### Data Description:
-> The dataset contains IMDB Movie Reviews collected from Kaggle. [Link}(https://www.kaggle.com/avithekkc/imdb-movie-reviews-250k-movie-reviews-sentiment)
+> The dataset contains IMDB Movie Reviews collected from Kaggle. [Link](https://www.kaggle.com/avithekkc/imdb-movie-reviews-250k-movie-reviews-sentiment)
  
 #### Tools
 * Python
