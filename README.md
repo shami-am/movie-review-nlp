@@ -14,7 +14,7 @@ Our plan in the project is to:
 
 #### Data Description:
 > The dataset contains IMDB Movie Reviews collected from Kaggle
- https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+ https://www.kaggle.com/avithekkc/imdb-movie-reviews-250k-movie-reviews-sentiment
  
 #### Tools
 * Python
